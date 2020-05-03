@@ -1,0 +1,8 @@
+* 前言
+Tensorflow相关demos
+参考自：[[https://github.com/aymericdamien/TensorFlow-Examples][Tensorflow-tutorials]]
+包含以下内容：
++ Basic: 基本Tensorflow操作：eager模式相关
++ Neural Network Examples: 基于estimator api进行简单的网络搭建
++ Utilities: 常用工具：Tensorboard可视化
++ Multi GPU: 多GPU操作
